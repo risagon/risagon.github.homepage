@@ -1,0 +1,46 @@
+
+
+/* sidebar */
+.side-bar{
+    background-color: #b8d200;
+    background-position: -100px -290px; 
+    display: block;
+    width: 400px;
+    height: 400px;
+    margin-top: 50px;
+    margin-left: 90px;
+    float: left;    
+    border-bottom-right-radius: 70%;
+    border-top-left-radius: 70%;
+    transform: rotate( 10deg);
+    position: fixed;
+} 
+
+.side-musikui{
+    display: block;
+    width: 80px;
+    height: 90px;
+    background-color: #f2a0a1;
+    border-radius: 100%;
+    margin-left: 150px;
+    transform: rotate( -40deg);
+    margin-top: -20px;
+}
+
+.side-text{
+    transform: rotate(-10deg);
+    margin-left: 100px;  
+}
+
+.side-text h1{
+    color: #69821b;
+    margin-top: 30px;
+}
+
+.side-text p{
+    color: #69821b;
+    margin-left: -60px;
+
+}
+
+/* ~~~~~~~~~~~~ */
